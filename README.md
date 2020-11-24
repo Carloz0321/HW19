@@ -15,4 +15,4 @@ looking for employees by name in the search section.
 
 # Screenshot of App
 
-![home]()
+![home](/public/img/EMPDIR.png)
